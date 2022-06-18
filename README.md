@@ -1,5 +1,4 @@
-### I'am Patrick, Full-Stack Developer.
----------------------------------
+## I'am Patrick, Full-Stack Developer.
 
 - 🔭 I’m currently working on some personal projects
 - 👓 I’m currently looking for new opportunities
@@ -7,12 +6,31 @@
 - 💬 Ask me about web development, 🏃 running, anime!!!
 - ⚡ Fun fact: I love to socialize, support others!
 - Get in touch ⏬
-----------------------------------
 
-### Tools and Langauges  
-----------------------------------
-![html](https://user-images.githubusercontent.com/96953173/174450218-cfdea836-a8f9-4c10-850f-a41a1f991970.png) ![css](https://user-images.githubusercontent.com/96953173/174450243-6a319e40-517c-4155-8913-73d9c81f7c2f.png) ![javascript](https://user-images.githubusercontent.com/96953173/174450281-ef40a8c7-c39a-4637-8b46-2a5dd1d1388f.png) ![visual-studio-code](https://user-images.githubusercontent.com/96953173/174450298-77cfbbe7-f6d3-4cf4-99a2-518e420f1a8a.png)
 
+## Tools and Langauges: 
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github)
+
+
+## Microverse Badges:
+
+![68747470733a2f2f6170692e61636372656469626c652e636f6d2f76312f66726f6e74656e642f63726564656e7469616c5f776562736974655f656d6265645f696d6167652f62616467652f3430323434363138](https://user-images.githubusercontent.com/96953173/174455753-eecb2b85-da86-442d-b14c-b0d25287ad47.png)
+
+## Tech Stack
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=flat" />
+  <img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-336791?logo=nodejs&logoColor=white&style=flat" />
+</p>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirabo19&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Patrick Ndimukulaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirabo19&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
