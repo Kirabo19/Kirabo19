@@ -6,7 +6,9 @@
 - 💬 Ask me about web development, 🏃 running, anime!!!
 - ⚡ Fun fact: I love to socialize, support others!
 - Get in touch ⏬
-
+  Email: kapojames@gmail.com
+  Twitter: @Ndimuku
+  Linkedin: https://www.linkedin.com/in/patrick-ndimukulaga-a6910a50/
 
 ## Tools and Langauges: 
 
