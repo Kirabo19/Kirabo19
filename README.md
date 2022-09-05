@@ -12,7 +12,7 @@
 
 ## Tools and Langauges: 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github,python)
 
 
 ## Microverse Badges:
